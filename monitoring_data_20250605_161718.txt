@@ -1,5 +1,0 @@
-ENHANCED ACTIVITY SIMULATOR - MONITORING DATA EXPORT
-======================================================================
-Export Time: 2025-06-05 16:17:18
-User: rishi
-Session ID: Not Started
